@@ -1,0 +1,26 @@
+/**
+ * @name Discord+ Source Code
+ * @author PlusInsta
+ * @version 2.4.1
+ * @description Thank you for checking out the source code! And thank you to all of the people who helped make this theme possible.
+*/
+:root {
+	--dplus-background: url(//i.imgur.com/3AiL3yN.png);
+	--dplus-accent-color: #ffffff;
+	--dplus-avatar-radius: 20%;
+	--dplus-server-radius: 20%;
+	--dplus-ui-radius: 10px;
+	--dplus-blur-scale: 100;
+	--dplus-bg-dark-1: white;
+	--dplus-bg-dark-2: white;
+	--dplus-bg-dark-3: white;
+	--dplus-bg-dark-4: white;
+	--dplus-bg-light-1: white;
+	--dplus-bg-light-2: white;
+	--dplus-bg-light-3: white;
+	--dplus-bg-light-4: white;
+}
+
+
+
+
